@@ -1,0 +1,31 @@
+# skill｜social.pinterest.searchable.v1
+> 适用于 Pinterest  
+> 定位：搜索友好 / 可收藏  
+> 风格：中性、描述性  
+> 生命周期：长期
+
+## 输入变量
+- {location_en}：地点英文
+- {theme_en}：主题（City Walk / Slow Travel / Street Photography）
+- {short_description}：2–3 句描述
+- {link}：Blog 链接
+- {board}：Board 名称
+
+## 固定输出结构（不变）
+Title:
+{location_en} City Walk｜{theme_en}
+
+Description:
+{short_description}
+
+Link:
+{link}
+
+Board:
+{board}
+
+## 写作约束
+- Title 60–80 字符
+- Description 自然重复关键词 1–2 次
+- 不使用 emoji
+- 不使用口语

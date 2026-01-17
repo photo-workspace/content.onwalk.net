@@ -1,0 +1,31 @@
+# skill｜social.instagram.minimal.v1
+> 适用于 Instagram  
+> 定位：画面 + 情绪共鸣  
+> 风格：文学感、留白  
+> 长度：6–10 行正文 + 8–12 个标签
+
+## 输入变量
+- {opening_line}：第一行钩子（情绪/画面）
+- {location}：地点
+- {scene_lines}：2–4 行画面描述
+- {closing_line}：一句可被截图的句子
+- {hashtags}：固定标签池
+
+## 固定输出结构（不变）
+{opening_line}
+
+{scene_lines}
+
+{closing_line}
+
+{hashtags}
+
+## 标签规则（示例）
+#citywalk #travelphotography #slowtravel
+#visualjournal #streetandtrees
+#quietcities #walkingnotes
+
+## 写作约束
+- 第一行必须独立成立
+- 句子短，允许断行
+- 不写完整故事，不总结

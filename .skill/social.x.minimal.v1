@@ -1,0 +1,29 @@
+# skill｜social.x.minimal.v1
+> 适用于 X / Twitter  
+> 定位：一段被摘出来的行走笔记  
+> 风格：克制、安静、可转发  
+> 长度：120–240 字符，单条，不做线程
+
+## 输入变量
+- {title}：文章标题或核心短句
+- {location}：地点（城市/区域）
+- {core_feeling}：核心感受（慢/静/留白/呼吸）
+- {one_image_moment}：一个画面瞬间
+- {link}：Blog 链接
+
+## 固定输出结构（不变）
+{核心句（≤2 行）}
+
+{画面补充 1–2 行}
+
+{总结性轻句 1 行}
+
+📍 {location}
+📷 City walk / Photography
+🔗 {link}
+
+## 写作约束
+- 不使用表情符号（📍📷🔗除外）
+- 不使用 hashtag
+- 不解释背景、不讲路线
+- 不出现“tips / guide / must-see”
