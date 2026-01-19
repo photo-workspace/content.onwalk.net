@@ -2,9 +2,9 @@
 title: "行摄｜用一个全新的视角去理解这个世界"
 category: "Essay"
 date: ""
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQltibDwbr50PvFnpD29IVmKPlwTM81lfx4Hbzef3GiathE6iaxsMkl9plpMssrXI6J5vR5wnbxRqQgPEQ/0?wx_fmt=jpeg"
+cover: "https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQltibDwbr50PvFnpD29IVmKPlwTM81lfx4Hbzef3GiathE6iaxsMkl9plpMssrXI6J5vR5wnbxRqQgPEQ/0?wx_fmt=jpeg"
 ---
-![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQltibDwbr50PvFnpD29IVmKPlwTM81lfx4Hbzef3GiathE6iaxsMkl9plpMssrXI6J5vR5wnbxRqQgPEQ/0?wx_fmt=jpeg)
+![cover_image](https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQltibDwbr50PvFnpD29IVmKPlwTM81lfx4Hbzef3GiathE6iaxsMkl9plpMssrXI6J5vR5wnbxRqQgPEQ/0?wx_fmt=jpeg)
 
 行摄｜用一个全新的视角去理解这个世界
 ==================
@@ -27,11 +27,11 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQltibDwbr50PvFnpD29IVmKPlwTM
 
 宇宙画布：世界的基底 人原本就是属于自然的一部分。那些山体并非静止，它像被巨刃削过的褶皱冰川与沙砾在同一片土地上对峙。从巍峨的雪山到广袤的草原，地球以最纯粹的形式，展示着生命的能量与寂静。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPl9hs5T1byMmO8coHVLYzNUiahJJmTp92XYNWKf5CKiaicBqq918ZoicNs1g/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPl9hs5T1byMmO8coHVLYzNUiahJJmTp92XYNWKf5CKiaicBqq918ZoicNs1g/640?wx_fmt=png&from=appmsg)
 
 冰封之巅与无垠之绿 站在高处你会发现，风景从来不是背景，它是世界的基底。拍摄者的使命不是修饰，而是还原这种“真实感”，让自然的纹理、光影自己说话。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPluHiaqWt75icct0zBjQjqjbx2RFrUyLg5vHRjiaIHz1RJdvv2RG3IicEYmw/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPluHiaqWt75icct0zBjQjqjbx2RFrUyLg5vHRjiaIHz1RJdvv2RG3IicEYmw/640?wx_fmt=png&from=appmsg)
 
 §人间脉搏，文明的呼吸
 -----------
@@ -40,11 +40,11 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQltibDwbr50PvFnpD29IVmKPlwTM
 
 人间脉搏：第一缕炊烟 当镜头移向人间，叙述变得温情。一叶扁舟、一缕炊烟人类的活动如水面上的涟漪，开始为这片古老的画布增添新的层次。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlmYwMPR6OAIgvtYhnY6UOK5flcEkz1f4wrYob2yuX5YPwl21Uuan4aQ/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlmYwMPR6OAIgvtYhnY6UOK5flcEkz1f4wrYob2yuX5YPwl21Uuan4aQ/640?wx_fmt=png&from=appmsg)
 
 聚集的能量：文明的容器 城市的秩序感藏在千万人的生活轨迹中。城市不仅是建筑的集合，更是思想、文化和机遇碰撞的熔炉。在巷口的转弯处，我们承认自己也在其中——你走得足够慢，世界才会把细节还给你。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlJPvZon4YpZcE3rDmDscFxM4cNQStCw1Nk9z1gR2gnz1Gbclgq2mewQ/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlJPvZon4YpZcE3rDmDscFxM4cNQStCw1Nk9z1gR2gnz1Gbclgq2mewQ/640?wx_fmt=png&from=appmsg)
 
 §秩序的印记，重塑山河
 -----------
@@ -53,11 +53,11 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQltibDwbr50PvFnpD29IVmKPlwTM
 
 秩序的印记：重塑山河 桥梁、道路与城市，成为了地表上新的经络。这是人类重塑山河的证词，也是被山河反过来塑形的痕迹。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlJTn34EsjswSKSqxgNATGhNmO8PR1IQa1vSexZicGlaiaNkYibtTCP7cibg/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlJTn34EsjswSKSqxgNATGhNmO8PR1IQa1vSexZicGlaiaNkYibtTCP7cibg/640?wx_fmt=png&from=appmsg)
 
 全新视角：当科技给了我们超越感官的“眼睛”。航拍不是为了炫耀高度，而是为了获得一种系统视角”。我们不再仅仅是参与者，也成为了冷静的观察者，从高空俯瞰那些迷人的秩序感。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPl8JeQvC9cxxP0WwWe3H1PkJia6icRPicS9ZWmWQhSVopPIxojIZ5wtOceQ/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPl8JeQvC9cxxP0WwWe3H1PkJia6icRPicS9ZWmWQhSVopPIxojIZ5wtOceQ/640?wx_fmt=png&from=appmsg)
 
 §系统的融合，看见“看不见”
 --------------
@@ -66,25 +66,25 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQltibDwbr50PvFnpD29IVmKPlwTM
 
 看见“看不见”的：解读系统 大地的肌理、城市的布局、经济的潮流……曾经看似混乱的一切，开始显露出其内在的逻辑与关联。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPl8pZ9aVQf5C1jf2uUO8qeZA4mpHAa0U5AIDn6JJAlNdn9GnBMPicUUAA/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPl8pZ9aVQf5C1jf2uUO8qeZA4mpHAa0U5AIDn6JJAlNdn9GnBMPicUUAA/640?wx_fmt=png&from=appmsg)
 
 系统的融合：自然与造物 当我们真正理解了系统，科技便不再是自然的对立面。风力发电机在云海中和和谐共振，共同谱写未来的旋律。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlYYuy68xdymJcJ6Ivh6C03dNzZMibq0rgHB7syVtKaFzhGhablrLcIdw/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlYYuy68xdymJcJ6Ivh6C03dNzZMibq0rgHB7syVtKaFzhGhablrLcIdw/640?wx_fmt=png&from=appmsg)
 
 §从观察者到共建者
 ---------
 
 我们开始学习如何设计和维护复杂的生态系统，成为这个星球负责任的“园丁”。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlabgf01iazZVIY0OW2hxPLgm44VliaCYBymyZ2ex6Sx0mOCL0Bq7rohsw/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlabgf01iazZVIY0OW2hxPLgm44VliaCYBymyZ2ex6Sx0mOCL0Bq7rohsw/640?wx_fmt=png&from=appmsg)
 
 §未来之路，跨越边界的彩虹
 -------------
 
 “理解是为了更好地创造，而创造是为了让这趟行走产生回声。”
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlUEm9BGLh525EpeXQib2ibZtjFX3e7wiaSS7kicH3icWicLficqFfZaWnekYow/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQltibDwbr50PvFnpD29IVmKPlUEm9BGLh525EpeXQib2ibZtjFX3e7wiaSS7kicH3icWicLficqFfZaWnekYow/640?wx_fmt=png&from=appmsg)
 
 行摄之路没有终点，并不是要把世界拍完，而是让自己被世界重塑。 当我们拥有了宇宙的视角、系统的认知和共建的智慧，前方的道路便如这道彩虹，连接着过去与未来，自然与文明，现实与梦想。
 

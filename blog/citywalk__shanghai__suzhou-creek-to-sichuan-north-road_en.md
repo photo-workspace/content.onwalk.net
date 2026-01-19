@@ -18,18 +18,18 @@ cover: "/images/city-night.svg"
 
 我们习惯了信息的秒回，却在这里重新理解了“等待”与“书信”的厚度。 \`
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZC7JeRpIwiawl57Qq07WwcnWWfp6ncnVTR4YTuHzTToamMs0GWGcPV5g/640?wx_fmt=jpeg&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZC7JeRpIwiawl57Qq07WwcnWWfp6ncnVTR4YTuHzTToamMs0GWGcPV5g/640?wx_fmt=jpeg&from=appmsg)
 
 天潼路 & 今潮8弄 & 巴金图书馆
 ------------------
 
    天潼路到四川北路不是一条很长的路，却很适合慢慢经过。你可以左右穿行，可能不经意间就看到一个很有年代的的小公园，也可能不经意间的抬头，就可以见一个书屋。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZWtn3TjvOCibMxVMicMgMBss4oykjExma29JvzgPfZIWkOpJ9Ne90iabsQ/640?wx_fmt=jpeg)
+![](https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZWtn3TjvOCibMxVMicMgMBss4oykjExma29JvzgPfZIWkOpJ9Ne90iabsQ/640?wx_fmt=jpeg)
 
 走到十字路口就是可以看到今潮8弄，各类海派风格建筑，包括巴金图书馆就坐落在这片区域，这里像一个可以随时停下来的节点。坐一会儿、静静看一看。假日的意义，不是用来消费的对象，而是一种允许你只是存在的背景。行摄到这一段，镜头可以放低，记录街道、行人和停顿本身。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZ4fSkCekPswSQ6OD8SFvicSNPKcmAKLtWqlqyBfy6ibpqqsZ7xb7VEBDg/640?wx_fmt=png&from=appmsg)
+![](https://assets.onwalk.net/images/sz_mmbiz_png/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZ4fSkCekPswSQ6OD8SFvicSNPKcmAKLtWqlqyBfy6ibpqqsZ7xb7VEBDg/640?wx_fmt=png&from=appmsg)
 
 四川北路公园 & 中共四大纪念馆
 ----------------

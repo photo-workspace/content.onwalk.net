@@ -2,9 +2,9 @@
 title: "城市漫游 · 江苏·南京｜暮色下的老宅街区"
 category: "City"
 date: ""
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlu70CxvSGbhsqH3krqyaJwVmu0u89a5SagouBiciaCoBNO8v7UygLwUy3YNFBz0eEwNN58jyO1OHqRA/0?wx_fmt=jpeg"
+cover: "https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlu70CxvSGbhsqH3krqyaJwVmu0u89a5SagouBiciaCoBNO8v7UygLwUy3YNFBz0eEwNN58jyO1OHqRA/0?wx_fmt=jpeg"
 ---
-![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlu70CxvSGbhsqH3krqyaJwVmu0u89a5SagouBiciaCoBNO8v7UygLwUy3YNFBz0eEwNN58jyO1OHqRA/0?wx_fmt=jpeg)
+![cover_image](https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlu70CxvSGbhsqH3krqyaJwVmu0u89a5SagouBiciaCoBNO8v7UygLwUy3YNFBz0eEwNN58jyO1OHqRA/0?wx_fmt=jpeg)
 # 城市漫游 · 江苏·南京｜暮色下的老宅街区
 =====================
 

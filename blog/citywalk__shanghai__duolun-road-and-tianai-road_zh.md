@@ -2,9 +2,9 @@
 title: "城市漫游· 多伦路与甜爱路"
 category: "City"
 date: ""
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlsEMianuKoTjrnfyehaOGwaUTjBqVYZgf1YS1kEO6avUbhDaKNPibZXspvQ0EotqNhicP03iaOibdibCUFg/0?wx_fmt=jpeg"
+cover: "https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlsEMianuKoTjrnfyehaOGwaUTjBqVYZgf1YS1kEO6avUbhDaKNPibZXspvQ0EotqNhicP03iaOibdibCUFg/0?wx_fmt=jpeg"
 ---
-![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlsEMianuKoTjrnfyehaOGwaUTjBqVYZgf1YS1kEO6avUbhDaKNPibZXspvQ0EotqNhicP03iaOibdibCUFg/0?wx_fmt=jpeg)
+![cover_image](https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlsEMianuKoTjrnfyehaOGwaUTjBqVYZgf1YS1kEO6avUbhDaKNPibZXspvQ0EotqNhicP03iaOibdibCUFg/0?wx_fmt=jpeg)
 
 # 城市漫游· 多伦路与甜爱路
 
@@ -25,7 +25,7 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlsEMianuKoTjrnfyehaOGwaUTjB
 
 甜爱路，那些涂鸦墙并不精致，甚至有些杂乱，但它们充满了即时性：告白、玩笑、甚至是路人随手涂鸦的痕迹。这里的“爱”不是宏大的叙事，只是贴近生活的、也不是那种被算法过滤过的精确表达。漫步在这里，最适合捕捉那些不完整的画面——半句没写完的话，或者一个行人短暂停留的背影。一座城市，来来往往的人不需要总是那么庄重，它也可以是随意、轻微、转瞬即逝的，就像代码里的注视，Debug日志，虽然琐碎，却最真实。人类的世界永远需要一个出口！
 
-![甜爱路密密麻麻爬满“到此一游”等涂鸦， 乱涂乱画还是爱情打卡？ - 周到](https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlsEMianuKoTjrnfyehaOGwaUuKIna0Ccibu7ynuBwVpOibbpjQibLaPEEFiaFl7D3dTjrnCRWmULZXuc6w/640?wx_fmt=jpeg&from=appmsg)
+![甜爱路密密麻麻爬满“到此一游”等涂鸦， 乱涂乱画还是爱情打卡？ - 周到](https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlsEMianuKoTjrnfyehaOGwaUuKIna0Ccibu7ynuBwVpOibbpjQibLaPEEFiaFl7D3dTjrnCRWmULZXuc6w/640?wx_fmt=jpeg&from=appmsg)
 
 鲁迅公园
 ----

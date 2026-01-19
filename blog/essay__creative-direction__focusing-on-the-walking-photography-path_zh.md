@@ -2,9 +2,9 @@
 title: "告别杂货铺，专注行摄路：一次重要的内容聚焦"
 category: "Essay"
 date: ""
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZDE1ErvmkOcNeW6O9KibWiaRKHN0mJIhOPo1aQwkrPCcqMSkK8cMU7uMg/0?wx_fmt=jpeg"
+cover: "https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZDE1ErvmkOcNeW6O9KibWiaRKHN0mJIhOPo1aQwkrPCcqMSkK8cMU7uMg/0?wx_fmt=jpeg"
 ---
-![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZDE1ErvmkOcNeW6O9KibWiaRKHN0mJIhOPo1aQwkrPCcqMSkK8cMU7uMg/0?wx_fmt=jpeg)
+![cover_image](https://assets.onwalk.net/images/sz_mmbiz_jpg/NymN0zWibQlvdRP6YwxazGTkf46PjOHrZDE1ErvmkOcNeW6O9KibWiaRKHN0mJIhOPo1aQwkrPCcqMSkK8cMU7uMg/0?wx_fmt=jpeg)
 
 告别杂货铺，专注行摄路：一次重要的内容聚焦
 =====================
