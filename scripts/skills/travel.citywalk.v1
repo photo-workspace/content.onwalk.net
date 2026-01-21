@@ -1,6 +1,19 @@
-
 # skill｜城市漫游 / 旅行（固定结构）v1
-> 只换内容不换结构。默认：微信友好｜随笔感｜5段｜每段200-300字｜总800-1000字
+
+只换内容不换结构。默认：微信友好｜随笔感｜5段｜每段200–300字｜总800–2000字
+
+文件命名规则（新增 · 固定）
+citywalk_{province|region}-{city|area}_{theme-or-subtitle}_{language}.md
+
+字段说明
+
+citywalk：固定前缀，表示城市漫游系列
+{province|region}-{city|area}：地理位置（小写英文，使用连字符）
+例：anhui-hongcun / jiangxi-jingdezhen
+{theme-or-subtitle}：主题或行走方式（英文短语，kebab-case）
+例：a-complete-walk-through / porcelain-capital-stroll
+{language}：语言标识（固定枚举）
+zh / en
 
 ## 全局规则
 - 先拆“刻板印象”，再写“现场反差”
