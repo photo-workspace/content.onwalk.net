@@ -1,3 +1,10 @@
+---
+title: "Jiangxi｜Jingdezhen Citywalk: A Stroll Through the Porcelain Capital"
+category: "CityWalk"
+date: ""
+cover: "/images/jingdezhen-cover.svg"
+---
+
 # Jiangxi｜Jingdezhen Citywalk: A Stroll Through the Porcelain Capital
 
 My impression of Jingdezhen was a familiar one: porcelain, museums, tourists, and a craft history told again and again. It felt like a city fixed in textbooks—white, bright, clean, with the reflective sheen of glass display cases.

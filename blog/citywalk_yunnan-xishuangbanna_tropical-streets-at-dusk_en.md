@@ -1,7 +1,8 @@
 ---
 title: "Xishuangbanna | Time Slows Down in the Tropical Shadows"
 date: "2026-01-17"
-category: "walk"
+category: "CityWalk"
+cover: "/images/xishuangbanna-cover.svg"
 location: "Yunnan, Xishuangbanna"
 route: ["Gaozhuang Side Road", "Shwedagon Pagoda Outer Street", "Parashorea Trees"]
 weather: "Sunny; warm afternoon shifting to soft evening"
