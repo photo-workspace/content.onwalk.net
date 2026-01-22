@@ -2,7 +2,7 @@
 title: "西双版纳｜在热带街巷里，时间被树影放慢"
 date: "2026-01-17"
 category: "CityWalk"
-cover: "/images/xishuangbanna-cover.svg"
+cover: "https://assets.onwalk.net/china/yunnan/xishuangbanna/DSC00092"
 location: "云南·西双版纳"
 route: ["告庄支路", "大金塔外街", "望天树"]
 weather: "晴，午后偏暖，傍晚转柔"
