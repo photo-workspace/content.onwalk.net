@@ -1,5 +1,5 @@
 ---
-title: "安徽｜宏村，不只是"水墨画""
+title: '安徽｜宏村，不只是"水墨画"'
 category: "CityWalk"
 date: ""
 cover: "/images/hongcun-cover.svg"
