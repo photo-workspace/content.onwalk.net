@@ -1,8 +1,8 @@
 ---
 title: "Shanghai · Guilin Park | Searching for Autumn Colors in Old Dreams"
-category: "City"
+category: "CityWalk"
 date: ""
-cover: ""
+cover: "/images/guilin-park-cover.svg"
 ---
 
 # Shanghai · Guilin Park | Searching for Autumn Colors in Old Dreams

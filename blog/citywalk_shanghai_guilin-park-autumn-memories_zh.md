@@ -1,9 +1,11 @@
 ---
 title: "上海· 桂林公园｜旧梦里寻觅秋色"
-category: "City"
+category: "CityWalk"
 date: ""
+cover: "/images/guilin-park-cover.svg"
 author: "潘海涛"
 ---
+
 # 上海· 桂林公园｜旧梦里寻觅秋色
 
 ## §桂林公园
