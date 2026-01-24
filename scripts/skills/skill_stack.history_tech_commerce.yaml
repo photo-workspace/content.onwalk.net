@@ -1,0 +1,19 @@
+skill_stack:
+  id: history_tech_commerce_stack
+  name: 历史行摄 × 科技 × 商业文明
+
+skills:
+  - history_travel_narrative_cn
+  - system_thinking_tech
+  - commercial_civilization_analysis
+
+merge_rules:
+  - 历史优先于比喻
+  - 技术用于解释结构，不用于炫技
+  - 商业逻辑服务于长期主义
+
+output_focus:
+  - 系统相似性
+  - 跨时代可复用逻辑
+  - 风景背后的运行机制
+
