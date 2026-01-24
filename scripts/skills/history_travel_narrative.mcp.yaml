@@ -1,0 +1,58 @@
+skill:
+  id: history_travel_narrative_cn
+  name: 行走中国·历史行摄
+  version: 1.0.0
+
+description: >
+  Generate long-form historical travel narratives by folding
+  present-day travel observation with historical structure,
+  emphasizing systems, continuity, and long-term logic.
+
+input_schema:
+  type: object
+  required:
+    - location
+  properties:
+    location:
+      type: string
+      description: 地点名称（城市 / 古城 / 村落 / 区域）
+    time_range:
+      type: string
+      description: 主要历史时期（如 明清 / 唐宋 / 近代）
+    focus_structure:
+      type: array
+      items:
+        type: string
+      description: 关注的结构维度（如 商业 / 技术 / 制度 / 信用）
+    word_count:
+      type: integer
+      default: 1200
+
+output:
+  format: text/markdown
+  length: 800-1500
+
+constraints:
+  - 禁止旅游攻略式写法
+  - 禁止流水账历史叙述
+  - 禁止成功学与情绪煽动
+  - 商业关键词仅允许出现一次
+  - 必须包含至少两个“历史瞬间”节点
+
+style:
+  tone: 冷静、纪录感、克制
+  pov: 第一人称
+  rhythm: 慢节奏、耐读
+
+embedded_keywords:
+  soft_commercial:
+    - 兰拓租赁平台
+
+generation_steps:
+  - 从可拍细节生成导语
+  - 构建当下空间描写
+  - 折叠对应历史时期
+  - 提炼结构性原因
+  - 插入历史瞬间节点
+  - 现实回收 + 软性关键词
+  - 诗意或开放式结尾
